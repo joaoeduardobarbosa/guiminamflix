@@ -1,0 +1,38 @@
+ body {
+     color:white ;
+     background:  rgb(154, 89, 238) ;
+     margin: 0px;
+     font-family: "Piedra", serif;
+ }
+
+ header {
+     border-bottom: solid 2px rgb(9, 235, 178);
+     padding: 20px;
+     font-size: 32px;
+     color: rgb(42, 122, 228);
+     
+        
+    }
+
+ section {
+     background: rgb(red, green, blue);
+     padding-bottom: 80px;
+     padding-top: 80px;
+     display: flex;
+     justify-content: center;
+ }
+ .chamada-texto{
+     margin-right: 22%;
+ }
+ h1{
+     font-size: 50px;
+ }
+ p{
+    font-size: 50px;
+ }
+ img {
+     height: 200px;
+ <div class="chamada-texto">
+    <h1>ATRAVÉS DO ARANHAVERSO</h1>
+    <p>#homem-aranha</p>
+</div>
